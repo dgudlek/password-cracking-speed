@@ -15,6 +15,8 @@ Comparison of password cracking with hashcat GPU, hashcat CPU and python CPU vel
 * Hashcat CPU - 324 Hashes per second
 * Python CPU - 355 Hashes per second
 
+GPU is ~50x faster than CPU.
+
 ## Run
 * [Open hashcat GPU in colab](https://colab.research.google.com/github/dgudlek/password-cracking-velocity/blob/main/hashcat_gpu.ipynb)
 * [Open hashcat CPU in colab](https://colab.research.google.com/github/dgudlek/password-cracking-velocity/blob/main/hashcat_cpu.ipynb)
