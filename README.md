@@ -1,4 +1,4 @@
-# password-cracking-velocity
+# password-cracking-speed
 
 Comparison of password cracking with hashcat GPU, hashcat CPU and python CPU velocity
 
